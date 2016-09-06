@@ -124,7 +124,8 @@ a#forkme_banner {
   left: 0;
   width: 138px;
   height: 138px;
-  display: block;
+  /*display: block;*/
+  display: hidden;
   background: transparent url(../images/fork-sprite.png) 0 0 no-repeat;
   text-indent: -9000px;
   z-index: 3;
